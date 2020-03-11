@@ -1,2 +1,2 @@
 # ios-viper
-User VIPER as an architecture in ios development
+Use VIPER as an architecture in ios development
